@@ -1,20 +1,26 @@
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Axes</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    by oZenitsu
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <br />
+    Plugin usefull for redstone pvp servers, plugin support worldguard regions with no such bugs :)
+    <br />
+    <br />
+    <br />
+    <h3 align="center">Commands</h3>
+    <br />
+    <br />
+    + Main command: /axe
+    + usage: /axe <player> <axe-type>/all (5 types are available = blindness, wither, weakness, poison, strength)
+    <br />
+    <br />
+    <h3 align="center">Permissions</h3>
+    + redstonepvp.admin = ability to use /axe <player> <axe-type>/all
+    <br />
+    <br />
+    <h3 align="center">Thank you</h3>
   </p>
 </div>
