@@ -1,0 +1,7 @@
+name: Axes
+version: 1.0
+main: org.axes.Main
+authors: [oZenitsu]
+commands:
+  axe:
+    usage: /axe

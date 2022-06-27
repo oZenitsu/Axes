@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Axes">
+    <output-path>$PROJECT_DIR$/out/artifacts/Axes</output-path>
+    <root id="archive" name="Axes.jar">
+      <element id="module-output" name="Axes" />
+    </root>
+  </artifact>
+</component>
